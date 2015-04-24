@@ -170,5 +170,5 @@ let g:signify_disable_by_default = 1
 if has("gui_running")
   set guioptions=aAce
   set showtabline=2
-  set guifont=Monaco:h13
+  set guifont=Monaco:h15
 endif
